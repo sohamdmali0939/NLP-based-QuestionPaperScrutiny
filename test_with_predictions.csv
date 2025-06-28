@@ -1,0 +1,97 @@
+question,bloom_label,predicted_label,predicted_label_name,confidence
+Define Cyber Security.,0,0,1,0.9858592
+Design a DevOps system to handle X problem in an engineering context.,5,5,6,0.9871703
+Evaluate the effectiveness of Graph Theory in solving industry-specific problems.,4,4,5,0.98581415
+Analyze the implementation of Software Architecture in a given scenario.,3,3,4,0.9890059
+Evaluate the effectiveness of Exploratory Data Analysis in solving industry-specific problems.,4,4,5,0.9857582
+Apply Agile methodologies to solve a real-world problem.,2,2,3,0.9896825
+Analyze the implementation of Linux programming in a given scenario.,3,3,4,0.9890031
+Evaluate the effectiveness of Computer Graphics in solving industry-specific problems.,4,4,5,0.98569566
+Define Computer Networks.,0,0,1,0.9856786
+Design a Theory of Computation system to handle X problem in an engineering context.,5,5,6,0.98725003
+Define Deep Learning.,0,0,1,0.98567665
+Analyze the implementation of Binary search in a given scenario.,3,3,4,0.9889731
+Design a Embedded Systems system to handle X problem in an engineering context.,5,5,6,0.98714197
+Analyze the implementation of Parallel Computing in a given scenario.,3,3,4,0.98900723
+Define Software Testing.,0,0,1,0.98573536
+Explain C programming for problem solving and describe its applications.,1,1,2,0.98831403
+Define Software Architecture.,0,0,1,0.98570514
+Design a Real-time Systems system to handle X problem in an engineering context.,5,5,6,0.9870696
+Define Blockchain.,0,0,1,0.98568463
+Apply Cyber Security to solve a real-world problem.,2,2,3,0.98991245
+Apply Bioinformatics to solve a real-world problem.,2,2,3,0.98973924
+Design a Digital Logic Design system to handle X problem in an engineering context.,5,5,6,0.9872126
+Define Sorting algorithms.,0,0,1,0.98581034
+Analyze the implementation of the OSI model in a given scenario.,3,3,4,0.9888943
+Explain Big Data and describe its applications.,1,1,2,0.9882698
+Design a Big Data system to handle X problem in an engineering context.,5,5,6,0.98716277
+Evaluate the effectiveness of Distributed Databases in solving industry-specific problems.,4,4,5,0.9858394
+Evaluate the effectiveness of Python programming in solving industry-specific problems.,4,4,5,0.9857883
+Analyze the implementation of Computer organization and architecture in a given scenario.,3,3,4,0.98902345
+Define Computational Biology.,0,0,1,0.9855435
+Evaluate the effectiveness of Computational Biology in solving industry-specific problems.,4,4,5,0.98579526
+Define Virtual Reality.,0,0,1,0.98577976
+Evaluate the effectiveness of Cryptography in solving industry-specific problems.,4,4,5,0.985706
+Design a Discrete mathematical structures system to handle X problem in an engineering context.,5,5,6,0.9872291
+Evaluate the effectiveness of Virtual Reality in solving industry-specific problems.,4,4,5,0.9857982
+Explain Linux programming and describe its applications.,1,1,2,0.9883724
+Analyze the implementation of Digital Logic Design in a given scenario.,3,3,4,0.9889979
+Apply Internet of Things (IoT) to solve a real-world problem.,2,2,3,0.989777
+Design a Embedded Systems system to handle X problem in an engineering context.,5,5,6,0.98714197
+Define Digital Logic Design.,0,0,1,0.985783
+Evaluate the effectiveness of Computer Vision in solving industry-specific problems.,4,4,5,0.9856948
+Apply C programming for problem solving to solve a real-world problem.,2,2,3,0.98955196
+Explain Data Structures and Algorithm and describe its applications.,1,1,2,0.9883045
+Apply File Systems to solve a real-world problem.,2,2,3,0.9898573
+Define Embedded Systems.,0,0,1,0.9856597
+Evaluate the effectiveness of the OSI model in solving industry-specific problems.,4,4,5,0.9859158
+Design a Agile methodologies system to handle X problem in an engineering context.,5,5,6,0.98720354
+Define Advanced Database Systems.,0,0,1,0.9858068
+Explain Cyber Security and describe its applications.,1,1,2,0.98837996
+Define Mathematical Logic.,0,0,1,0.98572075
+Evaluate the effectiveness of Big Data in solving industry-specific problems.,4,4,5,0.98564595
+Evaluate the effectiveness of Multivariable Calculus in solving industry-specific problems.,4,4,5,0.9858294
+Design a Computer Vision system to handle X problem in an engineering context.,5,5,6,0.9871106
+Design a Multivariable Calculus system to handle X problem in an engineering context.,5,5,6,0.9873043
+Analyze the implementation of Formal Languages in a given scenario.,3,3,4,0.98893505
+Analyze the implementation of Discrete mathematical structures in a given scenario.,3,3,4,0.9889742
+Explain Natural Language Processing (NLP) and describe its applications.,1,1,2,0.9880612
+Explain Discrete mathematical structures and describe its applications.,1,1,2,0.9881026
+Design a Augmented Reality system to handle X problem in an engineering context.,5,5,6,0.98717636
+Explain File Systems and describe its applications.,1,1,2,0.9883294
+Design a Python programming system to handle X problem in an engineering context.,5,5,6,0.98717123
+Analyze the implementation of Parallel Computing in a given scenario.,3,3,4,0.98900723
+Define Parallel Computing.,0,0,1,0.98566484
+Explain Human-Computer Interaction and describe its applications.,1,1,2,0.9882776
+Apply Computer Graphics to solve a real-world problem.,2,2,3,0.9898192
+Analyze the implementation of Virtual Reality in a given scenario.,3,3,4,0.98907673
+Evaluate the effectiveness of Python programming in solving industry-specific problems.,4,4,5,0.9857883
+Define Virtual Reality.,0,0,1,0.98577976
+Define Linux programming.,0,0,1,0.9858316
+Apply Data Structures and Algorithm to solve a real-world problem.,2,2,3,0.9897078
+Analyze the implementation of TCP/IP protocol in a given scenario.,3,3,4,0.98892945
+Define Cyber Security.,0,0,1,0.9858592
+Apply Networking Protocols to solve a real-world problem.,2,2,3,0.9898435
+Explain File Systems and describe its applications.,1,1,2,0.9883294
+Explain Cloud Security and describe its applications.,1,1,2,0.98841184
+Apply Mobile App Development to solve a real-world problem.,2,2,3,0.9898302
+Analyze the implementation of Internet of Things (IoT) in a given scenario.,3,3,4,0.98904026
+Design a Graph Theory system to handle X problem in an engineering context.,5,5,6,0.9871568
+Evaluate the effectiveness of Cyber Security in solving industry-specific problems.,4,4,5,0.98581135
+Define Cloud Infrastructure.,0,0,1,0.98570377
+Design a Virtual Reality system to handle X problem in an engineering context.,5,5,6,0.98713684
+Define Parallel Computing.,0,0,1,0.98566484
+Explain Advanced Database Systems and describe its applications.,1,1,2,0.98831
+Design a Digital Logic Design system to handle X problem in an engineering context.,5,5,6,0.9872126
+Define Network Security.,0,0,1,0.98580754
+Analyze the implementation of Computer Graphics in a given scenario.,3,3,4,0.9889536
+Evaluate the effectiveness of Computer Vision in solving industry-specific problems.,4,4,5,0.9856948
+Define Parallel Computing.,0,0,1,0.98566484
+Evaluate the effectiveness of SQL queries in solving industry-specific problems.,4,4,5,0.9856392
+Apply Computer Networks to solve a real-world problem.,2,2,3,0.9898477
+Design a Parallel Algorithms system to handle X problem in an engineering context.,5,5,6,0.98725766
+Apply Discrete mathematical structures to solve a real-world problem.,2,2,3,0.9897125
+Apply Distributed Systems to solve a real-world problem.,2,2,3,0.9897251
+Design a Real-time Systems system to handle X problem in an engineering context.,5,5,6,0.9870696
+Define Agile methodologies.,0,0,1,0.985607
+Design a Augmented Reality system to handle X problem in an engineering context.,5,5,6,0.98717636

@@ -1,0 +1,9 @@
+def get_marks(level):
+    return {
+        'Remember': 4,
+        'Understand': 6,
+        'Apply': 6,
+        'Analyze': 8,
+        'Evaluate': 8,
+        'Create': 10,
+    }.get(level, 4)
